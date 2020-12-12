@@ -4,5 +4,4 @@ jdk:
 - oraclejdk11
 
 script: 
-- mvn clean install
 - mvn clean package

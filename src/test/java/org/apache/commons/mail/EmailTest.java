@@ -22,7 +22,6 @@ import javax.mail.internet.MimeMultipart;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
-import org.apache.commons.*;
 
 public class EmailTest {
 	private static final String [] TEST_EMAILS = { "ab@bc.com", "a.b@c.org", 
